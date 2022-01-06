@@ -1,5 +1,5 @@
 # randumPickerGUI
-랜덤으로 숫자를 뽑기 위한 GUI 프로그램입니다. 한국어만 지원됩니다.  
+랜덤으로 숫자를 뽑기 위한 GUI 프로그램입니다.  
 A GUI program to pick random numbers. Only Korean is supported.
 
 - 제작 기간: 1시간
